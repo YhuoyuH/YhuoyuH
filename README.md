@@ -36,7 +36,11 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YhuoyuH&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YhuoyuH&theme=github" alt="Ashutosh's GitHub Activity Graph">
+</p>
 
 
 
@@ -45,4 +49,3 @@
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
-
