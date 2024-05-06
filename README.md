@@ -16,31 +16,33 @@
    </a>
 </p>
 
-## 🥱About me
+<p><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="22" /><b> YhuoyuH/yhuoyuh/yyh</b> are all of my <em>CODE NAME</em></p>
 
-- Name: Yuhao Yin
-- Nickname：YhuoyuH
-- Hometown: Jinan, Shandong Province in China
-- Educational experience
-  - Undergraduate(2021.09-2025.06): Computer Vision, Shanghai University
-- Project
-  - [RetinexMamba](https://github.com/YhuoyuH/RetinexMamba)
-  - [RetinexMamba-CN](https://github.com/YhuoyuH/RetinexMamba-CN)
-  - [NeRF-Database](https://github.com/YhuoyuH/NeRF-Database)
+### 🤡 Brief Introduction
 
-## 📈Statistics
+- 🏫 I’m currently a undergraduate student on **<a href="https://www.shu.edu.cn/">Shanghai University</a>**, majoring in **Communication Engineering**
+- 🌱 My research interests include [*Computer Vison*](https://github.com/YhuoyuH/RetinexMamba) *and* [*3D Reconstruction*](https://github.com/YhuoyuH/NeRF-Database)
+- 📫 You can get in touch with me by email at [yhuoyuh@gamil.com](mailto:yhuoyuh@gmail.com)
+
+------
+
+
+
+### 📈Statistics
 
 <div align="center">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YhuoyuH&show_icons=true&include_all_commits=true" />
 </div>
 
-
-
-
+<br>
 
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=YhuoyuH&theme=github" alt="Ashutosh's GitHub Activity Graph">
 </p>
+
+  															<strong>⚡ God,Please no more bugs! </strong>
+
+------
 
 
 
@@ -48,4 +50,38 @@
 
 <!-- BLOG-POST-LIST:START -->
 
+<strong>Gotcha!Nothing you can see!</strong>
+
 <!-- BLOG-POST-LIST:END -->
+
+------
+
+
+
+### **📊Tools and Environments**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" title="PyCharm"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual-Studio" title="Visual-Studio"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
+
+------
+
+
+
+### 🏆 Projects
+
+**RetinexMamba** \
+
+[**RetinexMamba**](https://github.com/YhuoyuH/RetinexMamba)• A new Mamba-based method to enhance the low-light image. \
+
+Languages & Technologies: `Python`, `Pytorch`\
+
+<br>
+
+**NeRF-Database** \
+
+[**NeRF-Database**](https://github.com/YhuoyuH/NeRF-Database)• A self-made database for NeRF. \
+
+Languages & Technologies: `Python`, `Pytorch`\
