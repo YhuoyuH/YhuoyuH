@@ -40,8 +40,9 @@
 
 
 
-### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
+### 📝<a href="https://YhuoyuH.github.io/" target="_blank">Recent Blog</a>
 
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
+
