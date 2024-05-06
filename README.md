@@ -24,9 +24,7 @@
 - 🌱 My research interests include [*Computer Vison*](https://github.com/YhuoyuH/RetinexMamba) *and* [*3D Reconstruction*](https://github.com/YhuoyuH/NeRF-Database)
 - 📫 You can get in touch with me by email at [yhuoyuh@gamil.com](mailto:yhuoyuh@gmail.com)
 
-------
-
-
+<br>
 
 ### 📈Statistics
 
@@ -40,23 +38,9 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=YhuoyuH&theme=github" alt="Ashutosh's GitHub Activity Graph">
 </p>
 
-  															<strong>⚡ God,Please no more bugs! </strong>
+  															**⚡ God,Please no more bugs!** 
 
-------
-
-
-
-### 📝<a href="https://YhuoyuH.github.io/" target="_blank">Recent Blog</a>
-
-<!-- BLOG-POST-LIST:START -->
-
-<strong>Gotcha!Nothing you can see!</strong>
-
-<!-- BLOG-POST-LIST:END -->
-
-------
-
-
+<br>
 
 ### **📊Tools and Environments**
 
@@ -66,9 +50,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
 
-------
-
-
+<br>
 
 ### 🏆 Projects
 
@@ -85,3 +67,13 @@ Languages & Technologies: `Python`, `Pytorch`\
 [**NeRF-Database**](https://github.com/YhuoyuH/NeRF-Database)• A self-made database for NeRF. \
 
 Languages & Technologies: `Python`, `Pytorch`\
+
+<br>
+
+### 📝<a href="https://YhuoyuH.github.io/" target="_blank">Recent Blog</a>
+
+<!-- BLOG-POST-LIST:START -->
+
+<strong>Gotcha!Nothing you can see!</strong>
+
+<!-- BLOG-POST-LIST:END -->
