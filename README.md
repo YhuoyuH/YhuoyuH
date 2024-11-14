@@ -22,7 +22,7 @@
 
 - 🏫 I’m currently a undergraduate student on **<a href="https://www.shu.edu.cn/">Shanghai University</a>**, majoring in **Communication Engineering**
 - 🌱 My research interests include [*Computer Vison*](https://github.com/YhuoyuH/RetinexMamba) *and* [*3D Reconstruction*](https://github.com/YhuoyuH/NeRF-Database)
-- 📫 You can get in touch with me by email at [yhuoyuh@gamil.com](mailto:yhuoyuh@gmail.com)
+- 📫 You can get in touch with me by email at [yhuoyuh@gmail.com](mailto:yhuoyuh@gmail.com)
 
 <br>
 
